@@ -1,0 +1,180 @@
+
+.
+Quiero adaptar todo para tener un debug de este estilo y luego ir modificandolo para ver solo que me interesa, es decir, si ya veo que las definiciones de los pases se ejecutan correctamente identificando los tiros de cada jugador, pagando y retirando bien las apuestas, las cuentas y todo, despues lo voy a modificar para que me imprima solo los cuadros, luego las camuninas etcetera, para tener un debug limpio, sin sobrecargar, y me muestre exactamente la parte del pase de interes. Para ir filtrando cualquier error puntual que pueda surgir. Ejemplo de unos primeros pases y como quiero el debug:
+
+Pase 1:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 0
+Ganancia del casino: $ 0
+Porcentaje de ganancia del casino: 0 %
+
+Numero de jugadores: 6
+Tirador: 1 
+
+Jugador 1:  Apuesta 5000 a Buena
+Jugador 2:  Apuesta 5000 a Buena
+Jugador 3:  Apuesta 15000 a Mala
+Jugador 4:  Apuesta 5000 a Buena
+Jugador 5:  Apuesta 20000 a Mala
+Jugador 6:  Apuesta 15000 a Buena
+
+Dinero en juego en este pase: 65000
+Dinero en juego acumulado: 65000
+
+Fase: Boton off
+
+Restan: 3 tiros en los que puede perder sin pasar los dados al siguiente jugador
+
+Tiro 1: 2 Buena pierde
+
+Restan 2 tiros en los que puede perder sin pasar los dados al siguiente jugador
+
+Fin pase 1 y continua Tirador 1
+
+Pagos pase 1:
+Jugador 1:  Pierde 5000 
+Jugador 2:  Pierde 5000 
+Jugador 3:  Gana 15000
+Jugador 4:  Pierde 5000 
+Jugador 5:  Gana 20000 
+Jugador 6:  Pierde 15000 
+
+Resumen pase 1:
+Dinero en juego en este pase: 65000
+Dinero en juego acumulado: 65000
+Ganancia del casino: $ -5000
+Porcentaje de ganancia del casino: -7.69 %
+
+----------------------------------------------------------------------------------------------------------
+
+Pase 2:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 65000
+Ganancia del casino: $ -5000
+Porcentaje de ganancia del casino: -7.69 %
+
+Numero de jugadores: 6
+Tirador: 1 
+
+Jugador 1:  Apuesta 15000 a Buena
+Jugador 2:  Apuesta 25000 a Buena
+Jugador 3:  Apuesta 10000 a Mala
+Jugador 4:  Apuesta 5000 a Buena
+Jugador 5:  Apuesta 10000 a Mala
+Jugador 6:  Apuesta 5000 a Buena
+
+Dinero en juego en este pase: 70000
+Dinero en juego acumulado: 135000
+
+Fase: Boton off
+
+Restan: 2 tiros en los que puede perder sin pasar los dados al siguiente jugador
+
+Tiro 1: 7 Buena gana
+
+Restan 1 tiro, el jugador ya no puede perder, si no pasará los dados
+
+Fin pase 2 y continua Tirador 1
+
+Pagos pase 2:
+Jugador 1:  Gana 15000 
+Jugador 2:  Gana 25000 
+Jugador 3:  Pierde 10000
+Jugador 4:  Gana 5000 
+Jugador 5:  Pierde 10000 
+Jugador 6:  Gana 5000 
+
+Resumen pase 2:
+Dinero en juego en este pase: 70000
+Dinero en juego acumulado: 135000
+Ganancia del casino: $ -35000
+Porcentaje de ganancia del casino: -25.92 %
+
+----------------------------------------------------------------------------------------------------------
+
+Pase 3:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 135000
+Ganancia del casino: $ -35000
+Porcentaje de ganancia del casino: -25.92 %
+
+Numero de jugadores: 6
+Tirador: 1 
+
+Jugador 1:  Apuesta 15000 a Buena
+Jugador 2:  Apuesta 25000 a Buena
+Jugador 3:  Apuesta 10000 a Mala
+Jugador 4:  Apuesta 5000 a Buena
+Jugador 5:  Apuesta 10000 a Mala
+Jugador 6:  Apuesta 5000 a Buena
+
+Dinero en juego en este pase: 70000
+Dinero en juego acumulado: 205000
+
+Fase: Boton off
+
+Restan: 1 tiros en los que puede perder sin pasar los dados al siguiente jugador
+
+Tiro 1: 5
+El punto es: 5
+Fase: Boton On
+
+(En proximos logs veremos las acciones de los jugadores, cuanto estan apostando a cada variante posible tales como costilla, cuadro, camuninas, etcetera. Ademas tambien el dinero en juego de este pase y acumulado actualizandose)
+
+Apuestas:
+Jugador 1: Enganche 15000
+Jugador 3: Enganche 15000 (por reglamento es el maximo de 10000 cuando el punto es 5)
+Jugador 6: Enganche 5000
+
+Dinero en juego en este pase: 105000
+Dinero en juego acumulado: 240000
+
+Tiro 2: 12 
+Tiro 3: 5
+Tiro 4: 7 Buena pierde
+
+Fin pase 3 y continua Tirador 2
+
+Pagos pase 3:
+Jugador 1:  Pierde 30000 (buena y enganche)
+Jugador 2:  Pierde 25000 
+Jugador 3:  Gana 20000 (mala y enganche 2:3)
+Jugador 4:  Pierde 5000 
+Jugador 5:  Gana 10000 
+Jugador 6:  Pierde 10000 (buena y enganche) 
+
+
+Resumen pase 3:
+Dinero en juego en este pase: 105000
+Dinero en juego acumulado: 240000
+Ganancia del casino: $ 5000
+Porcentaje de ganancia del casino: 2.08 %
+
+---------------------------------------------------------------------------------------------------------
+
+Pase 4:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 240000
+Ganancia del casino: $ 5000
+Porcentaje de ganancia del casino: 2.08 %
+
+Numero de jugadores: 6
+Tirador: 2 
+
+Jugador 1:  Apuesta 5000 a Buena
+Jugador 2:  Apuesta 5000 a Buena
+Jugador 3:  Apuesta 15000 a Mala
+Jugador 4:  Apuesta 5000 a Buena
+Jugador 5:  Apuesta 20000 a Mala
+Jugador 6:  Apuesta 15000 a Buena
+
+etcetera
+
+
+
+    
+    

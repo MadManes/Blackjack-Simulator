@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Runner Craps (tools/runner_motor_craps.py)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/tools/runner_motor_craps.py",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "Runner Debug Narrativo (tools/runner_debug_narrativo.py)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/tools/runner_debug_narrativo.py",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}

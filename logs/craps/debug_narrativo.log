@@ -1,0 +1,583 @@
+
+Pase 1:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 0
+Ganancia del casino: $ 0
+Porcentaje de ganancia del casino: 0.00 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 1 (Buena) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 68500 a Buena
+Jugador 2:  Apuesta 34500 a Buena
+Jugador 3:  Apuesta 52500 a Buena
+Jugador 4:  Apuesta 16000 a Mala
+Jugador 5:  Apuesta 134000 a Mala
+Jugador 6:  Apuesta 7000 a Buena
+Jugador 7:  Apuesta 47500 a Mala
+Jugador 8:  Apuesta 74000 a Buena
+
+Dinero en juego en este pase: 434000
+Dinero en juego acumulado: 434000
+
+Fase: Boton off
+Tiro 1: 3 + 3 = 6
+El punto es: 6
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 6:  Apuesta 7000 a Enganche Buena
+Jugador 8:  Apuesta 73000 a Enganche Buena
+
+Dinero en juego en este pase: 514000
+Dinero en juego acumulado: 514000
+
+Tiro 2: 3 + 6 = 9
+Tiro 3: 2 + 1 = 3
+Tiro 4: 4 + 5 = 9
+Tiro 5: 2 + 2 = 4
+Tiro 6: 5 + 2 = 7
+
+
+Pagos pase:
+Jugador 1:  Pierde 68500
+Jugador 2:  Pierde 34500
+Jugador 3:  Pierde 52500
+Jugador 4:  Gana 16000
+Jugador 5:  Gana 134000
+Jugador 6:  Pierde 14000 (incluye 7000 de enganche)
+Jugador 7:  Gana 47500
+Jugador 8:  Pierde 147000 (incluye 73000 de enganche)
+
+Resumen pase:
+Dinero en juego en este pase: 514000
+Dinero en juego acumulado: 514000
+Ganancia del casino: $ 119000
+Porcentaje de ganancia del casino: 23.15 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 2:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 514000
+Ganancia del casino: $ 119000
+Porcentaje de ganancia del casino: 23.15 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 2 (Mala) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 47000 a Buena
+Jugador 2:  Apuesta 46500 a Mala
+Jugador 3:  Apuesta 77000 a Buena
+Jugador 4:  Apuesta 12500 a Buena
+Jugador 5:  Apuesta 7500 a Buena
+Jugador 6:  Apuesta 10000 a Buena
+Jugador 7:  Apuesta 53500 a Buena
+Jugador 8:  Apuesta 71500 a Mala
+
+Dinero en juego en este pase: 325500
+Dinero en juego acumulado: 839500
+
+Fase: Boton off
+Tiro 1: 1 + 3 = 4
+El punto es: 4
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 3:  Apuesta 17500 a Enganche Buena
+Jugador 4:  Apuesta 5500 a Enganche Buena
+Jugador 8:  Apuesta 92000 a Enganche Mala
+
+Dinero en juego en este pase: 440500
+Dinero en juego acumulado: 954500
+
+Tiro 2: 4 + 2 = 6
+Tiro 3: 1 + 3 = 4
+
+
+Pagos pase:
+Jugador 1:  Gana 47000
+Jugador 2:  Pierde 46500
+Jugador 3:  Gana 77000 + 35000 de enganche
+Jugador 4:  Gana 12500 + 11000 de enganche
+Jugador 5:  Gana 7500
+Jugador 6:  Gana 10000
+Jugador 7:  Gana 53500
+Jugador 8:  Pierde 163500 (incluye 92000 de enganche)
+
+Resumen pase:
+Dinero en juego en este pase: 440500
+Dinero en juego acumulado: 954500
+Ganancia del casino: $ 75500
+Porcentaje de ganancia del casino: 7.91 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 3:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 954500
+Ganancia del casino: $ 75500
+Porcentaje de ganancia del casino: 7.91 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 3 (Buena) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 146000 a Buena
+Jugador 2:  Apuesta 60500 a Buena
+Jugador 3:  Apuesta 43000 a Mala
+Jugador 4:  Apuesta 70500 a Buena
+Jugador 5:  Apuesta 66000 a Buena
+Jugador 6:  Apuesta 139000 a Buena
+Jugador 7:  Apuesta 137000 a Buena
+Jugador 8:  Apuesta 18000 a Mala
+
+Dinero en juego en este pase: 680000
+Dinero en juego acumulado: 1634500
+
+Fase: Boton off
+Tiro 1: 6 + 3 = 9
+El punto es: 9
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 1:  Apuesta 134500 a Enganche Buena
+Jugador 2:  Apuesta 5500 a Enganche Buena
+Jugador 3:  Apuesta 18500 a Enganche Mala
+Jugador 5:  Apuesta 60500 a Enganche Buena
+
+Dinero en juego en este pase: 899000
+Dinero en juego acumulado: 1853500
+
+Tiro 2: 4 + 1 = 5
+Tiro 3: 3 + 6 = 9
+
+
+Pagos pase:
+Jugador 1:  Gana 146000 + 202000 de enganche
+Jugador 2:  Gana 60500 + 8500 de enganche
+Jugador 3:  Pierde 61500 (incluye 18500 de enganche)
+Jugador 4:  Gana 70500
+Jugador 5:  Gana 66000 + 91000 de enganche
+Jugador 6:  Gana 139000
+Jugador 7:  Gana 137000
+Jugador 8:  Pierde 18000
+
+Resumen pase:
+Dinero en juego en este pase: 899000
+Dinero en juego acumulado: 1853500
+Ganancia del casino: $ -765500
+Porcentaje de ganancia del casino: -41.30 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 4:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 1853500
+Ganancia del casino: $ -765500
+Porcentaje de ganancia del casino: -41.30 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 3 (Buena) 
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 19000 a Buena
+Jugador 2:  Apuesta 35000 a Buena
+Jugador 3:  Apuesta 135500 a Buena
+Jugador 4:  Apuesta 77000 a Buena
+Jugador 5:  Apuesta 37000 a Mala
+Jugador 6:  Apuesta 118000 a Buena
+Jugador 7:  Apuesta 8000 a Buena
+Jugador 8:  Apuesta 100000 a Buena
+
+Dinero en juego en este pase: 529500
+Dinero en juego acumulado: 2383000
+
+Fase: Boton off
+Tiro 1: 4 + 5 = 9
+El punto es: 9
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 1:  Apuesta 11500 a Enganche Buena
+Jugador 5:  Apuesta 18000 a Enganche Mala
+Jugador 6:  Apuesta 13000 a Enganche Buena
+Jugador 8:  Apuesta 28500 a Enganche Buena
+
+Dinero en juego en este pase: 600500
+Dinero en juego acumulado: 2454000
+
+Tiro 2: 5 + 5 = 10
+Tiro 3: 4 + 3 = 7
+
+
+Pagos pase:
+Jugador 1:  Pierde 30500 (incluye 11500 de enganche)
+Jugador 2:  Pierde 35000
+Jugador 3:  Pierde 135500
+Jugador 4:  Pierde 77000
+Jugador 5:  Gana 37000 + 12000 de enganche
+Jugador 6:  Pierde 131000 (incluye 13000 de enganche)
+Jugador 7:  Pierde 8000
+Jugador 8:  Pierde 128500 (incluye 28500 de enganche)
+
+Resumen pase:
+Dinero en juego en este pase: 600500
+Dinero en juego acumulado: 2454000
+Ganancia del casino: $ -269000
+Porcentaje de ganancia del casino: -10.96 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 5:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 2454000
+Ganancia del casino: $ -269000
+Porcentaje de ganancia del casino: -10.96 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 4 (Mala) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 59000 a Mala
+Jugador 2:  Apuesta 24000 a Buena
+Jugador 3:  Apuesta 23500 a Buena
+Jugador 4:  Apuesta 63000 a Buena
+Jugador 5:  Apuesta 144500 a Buena
+Jugador 6:  Apuesta 34500 a Buena
+Jugador 7:  Apuesta 146500 a Buena
+Jugador 8:  Apuesta 54000 a Buena
+
+Dinero en juego en este pase: 549000
+Dinero en juego acumulado: 3003000
+
+Fase: Boton off
+Tiro 1: 3 + 3 = 6
+El punto es: 6
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 1:  Apuesta 54000 a Enganche Mala
+Jugador 3:  Apuesta 9500 a Enganche Buena
+Jugador 5:  Apuesta 6000 a Enganche Buena
+Jugador 6:  Apuesta 28000 a Enganche Buena
+
+Dinero en juego en este pase: 646500
+Dinero en juego acumulado: 3100500
+
+Tiro 2: 2 + 2 = 4
+Tiro 3: 2 + 3 = 5
+Tiro 4: 5 + 5 = 10
+Tiro 5: 4 + 3 = 7
+
+
+Pagos pase:
+Jugador 1:  Gana 59000 + 45000 de enganche
+Jugador 2:  Pierde 24000
+Jugador 3:  Pierde 33000 (incluye 9500 de enganche)
+Jugador 4:  Pierde 63000
+Jugador 5:  Pierde 150500 (incluye 6000 de enganche)
+Jugador 6:  Pierde 62500 (incluye 28000 de enganche)
+Jugador 7:  Pierde 146500
+Jugador 8:  Pierde 54000
+
+Resumen pase:
+Dinero en juego en este pase: 646500
+Dinero en juego acumulado: 3100500
+Ganancia del casino: $ 160500
+Porcentaje de ganancia del casino: 5.18 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 6:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 3100500
+Ganancia del casino: $ 160500
+Porcentaje de ganancia del casino: 5.18 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 5 (Mala) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 82500 a Buena
+Jugador 2:  Apuesta 79000 a Buena
+Jugador 3:  Apuesta 138500 a Buena
+Jugador 4:  Apuesta 72000 a Buena
+Jugador 5:  Apuesta 148500 a Buena
+Jugador 6:  Apuesta 98000 a Buena
+Jugador 7:  Apuesta 73500 a Buena
+Jugador 8:  Apuesta 86500 a Mala
+
+Dinero en juego en este pase: 778500
+Dinero en juego acumulado: 3879000
+
+Fase: Boton off
+Tiro 1: 5 + 4 = 9
+El punto es: 9
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 2:  Apuesta 33500 a Enganche Buena
+Jugador 4:  Apuesta 35000 a Enganche Buena
+Jugador 5:  Apuesta 50000 a Enganche Buena
+Jugador 7:  Apuesta 5500 a Enganche Buena
+
+Dinero en juego en este pase: 902500
+Dinero en juego acumulado: 4003000
+
+Tiro 2: 4 + 3 = 7
+
+
+Pagos pase:
+Jugador 1:  Pierde 82500
+Jugador 2:  Pierde 112500 (incluye 33500 de enganche)
+Jugador 3:  Pierde 138500
+Jugador 4:  Pierde 107000 (incluye 35000 de enganche)
+Jugador 5:  Pierde 198500 (incluye 50000 de enganche)
+Jugador 6:  Pierde 98000
+Jugador 7:  Pierde 79000 (incluye 5500 de enganche)
+Jugador 8:  Gana 86500
+
+Resumen pase:
+Dinero en juego en este pase: 902500
+Dinero en juego acumulado: 4003000
+Ganancia del casino: $ 890000
+Porcentaje de ganancia del casino: 22.23 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 7:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 4003000
+Ganancia del casino: $ 890000
+Porcentaje de ganancia del casino: 22.23 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 6 (Buena) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 14000 a Buena
+Jugador 2:  Apuesta 145500 a Mala
+Jugador 3:  Apuesta 67500 a Buena
+Jugador 4:  Apuesta 37500 a Buena
+Jugador 5:  Apuesta 32500 a Buena
+Jugador 6:  Apuesta 72500 a Mala
+Jugador 7:  Apuesta 93000 a Mala
+Jugador 8:  Apuesta 105000 a Buena
+
+Dinero en juego en este pase: 567500
+Dinero en juego acumulado: 4570500
+
+Fase: Boton off
+Tiro 1: 1 + 6 = 7
+
+
+Pagos pase:
+Jugador 1:  Gana 14000
+Jugador 2:  Pierde 145500
+Jugador 3:  Gana 67500
+Jugador 4:  Gana 37500
+Jugador 5:  Gana 32500
+Jugador 6:  Pierde 72500
+Jugador 7:  Pierde 93000
+Jugador 8:  Gana 105000
+
+Resumen pase:
+Dinero en juego en este pase: 567500
+Dinero en juego acumulado: 4570500
+Ganancia del casino: $ 944500
+Porcentaje de ganancia del casino: 20.67 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 8:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 4570500
+Ganancia del casino: $ 944500
+Porcentaje de ganancia del casino: 20.67 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 6 (Buena) 
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 73500 a Buena
+Jugador 2:  Apuesta 106000 a Buena
+Jugador 3:  Apuesta 106500 a Buena
+Jugador 4:  Apuesta 71500 a Buena
+Jugador 5:  Apuesta 19500 a Buena
+Jugador 6:  Apuesta 17500 a Buena
+Jugador 7:  Apuesta 106000 a Buena
+Jugador 8:  Apuesta 115000 a Buena
+
+Dinero en juego en este pase: 615500
+Dinero en juego acumulado: 5186000
+
+Fase: Boton off
+Tiro 1: 5 + 4 = 9
+El punto es: 9
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 1:  Apuesta 9000 a Enganche Buena
+Jugador 2:  Apuesta 29500 a Enganche Buena
+Jugador 4:  Apuesta 70000 a Enganche Buena
+
+Dinero en juego en este pase: 724000
+Dinero en juego acumulado: 5294500
+
+Tiro 2: 1 + 2 = 3
+Tiro 3: 1 + 3 = 4
+Tiro 4: 5 + 3 = 8
+Tiro 5: 4 + 2 = 6
+Tiro 6: 3 + 5 = 8
+Tiro 7: 3 + 5 = 8
+Tiro 8: 5 + 5 = 10
+Tiro 9: 6 + 3 = 9
+
+
+Pagos pase:
+Jugador 1:  Gana 73500 + 13500 de enganche
+Jugador 2:  Gana 106000 + 44500 de enganche
+Jugador 3:  Gana 106500
+Jugador 4:  Gana 71500 + 105000 de enganche
+Jugador 5:  Gana 19500
+Jugador 6:  Gana 17500
+Jugador 7:  Gana 106000
+Jugador 8:  Gana 115000
+
+Resumen pase:
+Dinero en juego en este pase: 724000
+Dinero en juego acumulado: 5294500
+Ganancia del casino: $ 166000
+Porcentaje de ganancia del casino: 3.14 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 9:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 5294500
+Ganancia del casino: $ 166000
+Porcentaje de ganancia del casino: 3.14 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 6 (Buena) 
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 99500 a Buena
+Jugador 2:  Apuesta 65500 a Buena
+Jugador 3:  Apuesta 37500 a Mala
+Jugador 4:  Apuesta 51000 a Mala
+Jugador 5:  Apuesta 141500 a Buena
+Jugador 6:  Apuesta 91500 a Buena
+Jugador 7:  Apuesta 114500 a Mala
+Jugador 8:  Apuesta 128000 a Mala
+
+Dinero en juego en este pase: 729000
+Dinero en juego acumulado: 6023500
+
+Fase: Boton off
+Tiro 1: 6 + 6 = 12
+
+
+Pagos pase:
+Jugador 1:  Pierde 99500
+Jugador 2:  Pierde 65500
+Jugador 3:  Empate
+Jugador 4:  Empate
+Jugador 5:  Pierde 141500
+Jugador 6:  Pierde 91500
+Jugador 7:  Empate
+Jugador 8:  Empate
+
+Resumen pase:
+Dinero en juego en este pase: 729000
+Dinero en juego acumulado: 6023500
+Ganancia del casino: $ 564000
+Porcentaje de ganancia del casino: 9.36 %
+
+----------------------------------------------------------------------------------------------------------
+
+
+Pase 10:
+
+Dinero en juego en este pase: 0
+Dinero en juego acumulado: 6023500
+Ganancia del casino: $ 564000
+Porcentaje de ganancia del casino: 9.36 %
+
+Numero de jugadores: (según apuestas del pase)
+Tirador: 7 (Buena) 
+
+Tiros disponibles: 3
+
+Apuestas (inicio del pase):
+Jugador 1:  Apuesta 134000 a Buena
+Jugador 2:  Apuesta 60500 a Buena
+Jugador 3:  Apuesta 45000 a Buena
+Jugador 4:  Apuesta 82000 a Buena
+Jugador 5:  Apuesta 88000 a Mala
+Jugador 6:  Apuesta 32500 a Mala
+Jugador 7:  Apuesta 81000 a Buena
+Jugador 8:  Apuesta 27500 a Buena
+
+Dinero en juego en este pase: 550500
+Dinero en juego acumulado: 6574000
+
+Fase: Boton off
+Tiro 1: 1 + 3 = 4
+El punto es: 4
+Fase: Boton On
+Apuestas adicionales (Fase 2):
+Jugador 3:  Apuesta 13500 a Enganche Buena
+Jugador 6:  Apuesta 16000 a Enganche Mala
+Jugador 8:  Apuesta 23000 a Enganche Buena
+
+Dinero en juego en este pase: 603000
+Dinero en juego acumulado: 6626500
+
+Tiro 2: 4 + 2 = 6
+Tiro 3: 6 + 1 = 7
+
+
+Pagos pase:
+Jugador 1:  Pierde 134000
+Jugador 2:  Pierde 60500
+Jugador 3:  Pierde 58500 (incluye 13500 de enganche)
+Jugador 4:  Pierde 82000
+Jugador 5:  Gana 88000
+Jugador 6:  Gana 32500 + 8000 de enganche
+Jugador 7:  Pierde 81000
+Jugador 8:  Pierde 50500 (incluye 23000 de enganche)
+
+Resumen pase:
+Dinero en juego en este pase: 603000
+Dinero en juego acumulado: 6626500
+Ganancia del casino: $ 902000
+Porcentaje de ganancia del casino: 13.61 %
+
+----------------------------------------------------------------------------------------------------------
+

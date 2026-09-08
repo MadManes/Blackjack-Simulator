@@ -1,0 +1,6 @@
+{"ts":"2025-08-23 22:29:29,658","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"Buena","id_ap":1,"id_jugador":1,"monto":5000,"meta":{},"session_id":"S1","pase_id":0,"tiro":0,"runner":"debug"}}
+{"ts":"2025-08-23 22:29:29,670","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"Mala","id_ap":2,"id_jugador":2,"monto":5000,"meta":{},"session_id":"S1","pase_id":0,"tiro":0,"runner":"debug"}}
+{"ts":"2025-08-23 22:29:29,670","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"TIRO_INICIADO","d1":3,"d2":4,"suma":7,"es_doble":false,"session_id":"S1","pase_id":0,"tiro":1,"runner":"debug"}}
+{"ts":"2025-08-23 22:29:29,670","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"Buena","id_ap":3,"id_jugador":1,"monto":5000,"meta":{},"session_id":"S1","pase_id":0,"tiro":1,"runner":"debug"}}
+{"ts":"2025-08-23 22:29:29,671","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"Mala","id_ap":4,"id_jugador":2,"monto":5000,"meta":{},"session_id":"S1","pase_id":0,"tiro":1,"runner":"debug"}}
+{"ts":"2025-08-23 22:29:29,671","lvl":"DEBUG","lg":"craps.debug","msg":{"tipo":"TIRO_INICIADO","d1":6,"d2":6,"suma":12,"es_doble":true,"session_id":"S1","pase_id":0,"tiro":2,"runner":"debug"}}
